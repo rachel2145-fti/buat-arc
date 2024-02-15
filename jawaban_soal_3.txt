@@ -1,0 +1,2 @@
+3. apa itu fork dan pull request github.
+-> fork itu basically kaya ngecopas repository di github tanpa ngeganggu repository aslinya dan bisa dengan bebas diapain aja, kalo pull request itu kaya ngasih saran ke branch master mau ngeaccept ga kalo ada perubahan ke repository yang di-fork tadi. gampangnya, pull request itu kaya, "eh, aku ada buat beberapa perubahan nih, mau nerima ga perubahannya?"

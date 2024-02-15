@@ -1,0 +1,2 @@
+2. apa itu git rebase.
+-> git rebase itu mindahin commit-commit yang ada di branch lain ke master branch, jadi commit-commitnya rapi.

@@ -1,0 +1,2 @@
+1. apa itu merge conflict dan cara menanggulanginya.
+-> merge conflict adalah sebuah kesalahan dalam git dikarenakan 2 branch ngerjain baris yang sama di 1 repository, jadi si git ga bisa nge-merge. buat menanggulangi merge conflict ini, pilih yang mana mau fix dipake trus add lalu commit.
